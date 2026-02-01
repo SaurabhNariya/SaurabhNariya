@@ -1,4 +1,4 @@
-![logo](https://github.com/SaurabhNariya/SaurabhNariya/blob/main/Github.Banner.jpeg)
+![logo](https://github.com/SaurabhNariya/SaurabhNariya/blob/main/NewBanner.jpeg)
 <br clear="both">
 
 <table>
@@ -100,13 +100,6 @@
   </a>
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/SaurabhNariya/SaurabhNariya/output/snake.svg" />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhNariya&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaurabhNariya&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhNariya&show_icons=true" />
 </p>
